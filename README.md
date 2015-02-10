@@ -1,1 +1,1 @@
-# prototype
+Photoshop project
